@@ -1,5 +1,6 @@
 db
 lib/*
+!lib/local
 epm-installed
 *.html
 *.pdf
